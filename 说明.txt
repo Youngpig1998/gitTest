@@ -1,1 +1,0 @@
-use copy-on-write to write string
